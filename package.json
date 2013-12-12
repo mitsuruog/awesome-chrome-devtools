@@ -1,0 +1,26 @@
+{
+  "name": "awesome-chrome-devtools",
+  "version": "0.0.0",
+  "description": "chrome devtools is awesome!!",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitsuruog/awesome-chrome-devtools.git"
+  },
+  "author": "mitsuruog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitsuruog/awesome-chrome-devtools/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-connect": "~0.5.0",
+    "load-grunt-tasks": "~0.2.0",
+    "connect-livereload": "~0.3.0",
+    "grunt-open": "~0.2.2"
+  }
+}
